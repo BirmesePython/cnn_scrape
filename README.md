@@ -12,6 +12,3 @@ To install dryscrape:
 	
 To run (from the same directory):
 	python cnn_scrape.py
-	
-
-The code, and screenshots of this code's execution are located in this folder.
